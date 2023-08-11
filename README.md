@@ -1,3 +1,6 @@
+## Screenshots
+
+![App Screenshot](https://data.codingcity.in/wp-content/uploads/2023/08/todo-list.png)
 
 # To Do List App
 
